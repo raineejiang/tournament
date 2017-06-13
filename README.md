@@ -4,7 +4,7 @@
 This project develops a database schema to store the game matches between players for Swiss style tournament. I then write code to query this data and determine the winners of various games
 
 ## Prerequisites
-1. Install Vagrant(https://www.vagrantup.com/) and VirtualBox(https://www.virtualbox.org/)
+1. Install [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/)
 
 ## Installation
 1. Make sure to download all of the files in this repository and save the files in the same local folder.
